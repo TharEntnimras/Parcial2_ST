@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DW Adventure Works</Id>
+            <Name>DW Adventure Works</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgj8aEQYfb0+Jva3fePeBnAAAAAAmAAAARABXACAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAAAAQZgAAAAEAACAAAADQ+v1lnZDuryhsZRTNpX+nlW/iyW+ZKBZJOat7j3nClQAAAAAOgAAAAAIAACAAAACvhtRRcy8Ka9FvR10WuH4ka0yt/XvexyGy7PgU7LoTlxAAAABEhylK+KFB4n2cXBCRK3iaQAAAAOxhinZiHJTMnx+69G+I3LDkg5//lNKP0/wOIodKVFH2py/cglKboNaMpqut3Lrn9VHfY/5/mM9He3QrKm25JZw=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Adventure Works2019</Id>
+            <Name>Adventure Works2019</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgj8aEQYfb0+Jva3fePeBnAAAAAAoAAAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAMgAwADEAOQAAABBmAAAAAQAAIAAAAB9IiidGo/4bL3WelF+5fhlo55V+rD/KAEigeBH+m/dDAAAAAA6AAAAAAgAAIAAAADPf5CuwjhpfLOsoiXwcluPerDR0X+DuiZPO6zskvV/hEAAAAOvcRyKAf1UEmPaYzxeem1hAAAAA/ilY3QFxbJQsyzIADU1grsA2NjXEBYpridx66Je6C3A9ES2qINKfyFbgkb9HrsGIieCRbL+JZxR0dhyyLqsdOw==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DW Adventure Works</Id>
+            <Name>DW Adventure Works</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgj8aEQYfb0+Jva3fePeBnAAAAAAmAAAARABXACAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAAAAQZgAAAAEAACAAAAB42Ryz6fyvUNCBjyQDF74QvuKgYvb88lv3ZXqxrQnDuAAAAAAOgAAAAAIAACAAAAAqu2CHEBgl0Cjcf4N1xWRgWyL3Yl9Qf2fAUVu05lrPdRAAAAAiG0FRCHfuJo0QKo+2vj+RQAAAAKCDfbrdBWx5+gX095M/FK4HvcPJgKVvDw9jr54mDgyaCQKpRbVCgG6DUjFCSF/65JzvqEH0oT56Da0GzX0txDw=</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>Adventure Works2019</Id>
+            <Name>Adventure Works2019</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgj8aEQYfb0+Jva3fePeBnAAAAAAoAAAAQQBkAHYAZQBuAHQAdQByAGUAIABXAG8AcgBrAHMAMgAwADEAOQAAABBmAAAAAQAAIAAAAMeeJ4LRD+0liPD9hK3eTFD0d/KSwHH25MM0zsYgTUSNAAAAAA6AAAAAAgAAIAAAABeyFBA5AojKmxTAK85Xua1rKydnXIA9JZ66Rgnks8xyEAAAAN/MMYBqDypufa2B2d4cM29AAAAAZtTlPm3Q6Q8Wm4EmQIz+6jgQoh+380AT+dFPaxJlZjlB7GVUYrjEGLc31U8gqLXnYnVXXM48Dnr2wOcbkTJdbQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
